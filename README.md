@@ -1,3 +1,4 @@
 # ML_task_edubridge
 ML_task_edubridge
-1. In the above mentioned file I have conducted the Linear Discriminat anlaysis for the data provided
+1. In the above mentioned file I have conducted the Linear Discriminat anlaysis for the data provided.
+2. Founded the values with a accuracy of 85%
